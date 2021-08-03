@@ -1,2 +1,2 @@
 # vu-alerts-system
-This will be a full ReactJS web application that lets people sign up and manage their VU (Virtual university) stuff. by stuff I mean for now: Alerts (Email/SMS/Call) for deadlines because VU sucks at those, alerts for announcements, etc.
+This will be a full ReactJS web application ( If somehow, one day I'm unlazy enough to do it ) that lets people sign up and manage their VU (Virtual university) stuff. by stuff I mean for now: Alerts (Email/SMS/Call) for deadlines because VU sucks at those, alerts for announcements, etc.
